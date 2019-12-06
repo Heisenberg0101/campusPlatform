@@ -1,0 +1,9 @@
+.popup-content {
+	/* #ifndef APP-NVUE */
+	display: block;
+	/* #endif */
+	background-color: #fff;
+	padding: 16rpx;
+	font-size: 14rpx;
+	color: #000;
+}
